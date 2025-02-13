@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World!, I'm Swastideep ,  a Indian Full-Stack Web Developer 👋🏼:<br>⚡ Fun fact:<br><br>👯 I’m looking to collaborate on projects that are using Python.<br>🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.<br>✏️ I Write blogs on dev.to on free days.<br>🎵 I love to hear country music.
+Hello World!, I'm Swastideep ,  a Indian Full-Stack Web Developer 👋🏼:<br>⚡ Fun fact:<br><br>👯 I’m looking to collaborate on projects that are using JS.<br>🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.<br>✏️ I Write blogs on free days.<br>🎵 I love to hear country music.
 
 
 ## 🌐 Socials:
